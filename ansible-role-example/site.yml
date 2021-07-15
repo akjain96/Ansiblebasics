@@ -1,5 +1,0 @@
----
-- hosts: myserver1
-  become: true
-  roles:
-  - apache
